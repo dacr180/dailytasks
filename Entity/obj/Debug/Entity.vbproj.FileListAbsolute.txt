@@ -1,0 +1,10 @@
+D:\DailyTasks\Entity\bin\Debug\Entity.dll
+D:\DailyTasks\Entity\bin\Debug\Entity.pdb
+D:\DailyTasks\Entity\bin\Debug\Entity.xml
+D:\DailyTasks\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\DailyTasks\Entity\obj\Debug\Entity.Resources.resources
+D:\DailyTasks\Entity\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DailyTasks\Entity\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DailyTasks\Entity\obj\Debug\Entity.dll
+D:\DailyTasks\Entity\obj\Debug\Entity.xml
+D:\DailyTasks\Entity\obj\Debug\Entity.pdb

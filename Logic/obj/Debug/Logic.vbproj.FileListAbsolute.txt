@@ -1,0 +1,16 @@
+D:\DailyTasks\Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\DailyTasks\Logic\obj\Debug\Logic.Resources.resources
+D:\DailyTasks\Logic\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DailyTasks\Logic\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DailyTasks\Logic\bin\Debug\Logic.dll
+D:\DailyTasks\Logic\bin\Debug\Logic.pdb
+D:\DailyTasks\Logic\bin\Debug\Logic.xml
+D:\DailyTasks\Logic\bin\Debug\Data.dll
+D:\DailyTasks\Logic\bin\Debug\Entity.dll
+D:\DailyTasks\Logic\bin\Debug\Data.pdb
+D:\DailyTasks\Logic\bin\Debug\Data.xml
+D:\DailyTasks\Logic\bin\Debug\Entity.pdb
+D:\DailyTasks\Logic\bin\Debug\Entity.xml
+D:\DailyTasks\Logic\obj\Debug\Logic.dll
+D:\DailyTasks\Logic\obj\Debug\Logic.xml
+D:\DailyTasks\Logic\obj\Debug\Logic.pdb
