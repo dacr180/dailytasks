@@ -86,17 +86,17 @@ Control Label3.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:DailyTasks.NewTask.StartDateMessage">
+</member><member name="F:DailyTasks.NewTask.SelectedDate1">
 	<summary>
-Control StartDateMessage.
+Control SelectedDate1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:DailyTasks.NewTask.SelectedDate1">
+</member><member name="F:DailyTasks.NewTask.StartDateMessage">
 	<summary>
-Control SelectedDate1.
+Control StartDateMessage.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -158,38 +158,6 @@ Control information.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:DailyTasks.TodayTasks.form2">
-	<summary>
-Control form2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:DailyTasks.TodayTasks.LinkButton1">
-	<summary>
-Control LinkButton1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:DailyTasks.TodayTasks.Button1">
-	<summary>
-Control Button1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:DailyTasks.TodayTasks.GridView1">
-	<summary>
-Control GridView1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
 </member><member name="F:DailyTasks.DailyTasks.form1">
 	<summary>
 Control form1.
@@ -217,6 +185,38 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:DailyTasks.DailyTasks.LinkButton2">
 	<summary>
 Control LinkButton2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.form2">
+	<summary>
+Control form2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.GridView1">
+	<summary>
+Control GridView1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
