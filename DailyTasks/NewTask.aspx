@@ -32,9 +32,7 @@
         <asp:Label ID="Label3" runat="server" Text="Start date"></asp:Label>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         
-        <asp:Label ID="StartDateMessage" runat="server"></asp:Label>
-    
-
+        
 
         <br />
         <eo:DatePicker ID="SelectedDate1" runat="server" ControlSkinID="None" 
@@ -66,15 +64,20 @@
                 </table>
             </FooterTemplate>
         </eo:DatePicker>
-        <br />
-        <br />
-        <asp:Label ID="Label4" runat="server" Text="Due Date"></asp:Label>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Label ID="DueDateMessage" runat="server"></asp:Label>
+        
+        <asp:Label ID="StartDateMessage" runat="server"></asp:Label>
     
 
 
         <br />
-        &nbsp;
+        <br />
+        <br />
+        <asp:Label ID="Label4" runat="server" Text="Due Date"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+        &nbsp;<asp:Label ID="DueDateMessage" runat="server"></asp:Label>
+    
+
+
         <eo:DatePicker ID="SelectedDate2" runat="server" ControlSkinID="None" 
             DayCellHeight="15" DayCellWidth="31" DayHeaderFormat="Short" DisabledDates="" 
             OtherMonthDayVisible="True" SelectedDates="" TitleFormat="MMMM, yyyy" 
@@ -104,7 +107,7 @@
                 </table>
             </FooterTemplate>
         </eo:DatePicker>
-        <br />
+        &nbsp;<br />
         <br />
         <asp:Label ID="Label2" runat="server" Text="Task comments"></asp:Label>
         <br />

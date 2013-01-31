@@ -68,15 +68,6 @@ Partial Public Class NewTask
     Protected WithEvents Label3 As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Control StartDateMessage.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents StartDateMessage As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''Control SelectedDate1.
     '''</summary>
     '''<remarks>
@@ -84,6 +75,15 @@ Partial Public Class NewTask
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents SelectedDate1 As Global.EO.Web.DatePicker
+
+    '''<summary>
+    '''Control StartDateMessage.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents StartDateMessage As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''Control Label4.
