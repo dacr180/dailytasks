@@ -1,13 +1,21 @@
 ﻿Public Class TodayTasks
     Inherits System.Web.UI.Page
-    Dim negocios As New Logic.Logic
+    Dim logic As New Logic.Logic
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
 
     End Sub
 
-    Protected Sub Button1_Click(ByVal sender As Object, ByVal e As EventArgs) Handles Button1.Click
-        GridView1.DataSource = negocios.TodayTasksQuery
-        GridView1.DataBind()
+    Protected Sub BtnTodayTasks_Click(ByVal sender As Object, ByVal e As EventArgs) Handles BtnTodayTasks.Click
+        TodayTasks2.DataSource = logic.TodayTasksQuery
+        TodayTasks2.DataBind()
     End Sub
+
+
+    Protected Sub TodayTasks2_SelectedIndexChanged(ByVal sender As Object, ByVal e As EventArgs) Handles TodayTasks2.SelectedIndexChanged
+        logic.CompletedTask(TodayTasks2.SelectedRow.Cells(1).Text)
+        TodayTasks2.DataSource = logic.TodayTasksQuery
+        TodayTasks2.DataBind()
+    End Sub
+
 End Class

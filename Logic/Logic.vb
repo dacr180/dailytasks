@@ -20,6 +20,9 @@ Public Class Logic
         Return newConnection.TodayTasks()
     End Function
 
+    Public Sub CompletedTask(ByVal id As String)
+        newConnection.completeTask(id)
+    End Sub
 
 
 End Class

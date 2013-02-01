@@ -95,15 +95,6 @@ Partial Public Class NewTask
     Protected WithEvents Label4 As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Control DueDateMessage.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents DueDateMessage As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''Control SelectedDate2.
     '''</summary>
     '''<remarks>
@@ -111,6 +102,15 @@ Partial Public Class NewTask
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents SelectedDate2 As Global.EO.Web.DatePicker
+
+    '''<summary>
+    '''Control DueDateMessage.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents DueDateMessage As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''Control Label2.

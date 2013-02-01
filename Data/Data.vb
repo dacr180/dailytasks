@@ -48,7 +48,7 @@ Public Class Data
         today = Now
 
         Dim sql As String
-        sql = "Select name, startDate, comments from Task where dueDate = @today"
+        sql = "SELECT name, startDate, comments FROM Task WHERE dueDate = @today AND status = 0"
         Dim command As New SqlCommand(sql, dataConnection)
 
         command.Parameters.Add(New SqlParameter("@today", SqlDbType.Date))
@@ -107,6 +107,28 @@ Public Class Data
         task.Comments = row("comments")
         Return task
     End Function
+
+    Public Sub completeTask(ByVal id As String)
+        Dim sql As String
+        sql = "UPDATE Task SET completionDate = @CompletionDate, status = 1 WHERE name = @Name"
+
+        Dim today As New Date
+        today = Now()
+
+        Dim command As New SqlCommand(sql, dataConnection)
+
+        command.Parameters.Add(New SqlParameter("@name", SqlDbType.NChar))
+        command.Parameters.Add(New SqlParameter("@CompletionDate", SqlDbType.Date))
+
+        command.Parameters("@CompletionDate").Value = today
+        command.Parameters("@name").Value = id
+
+        OpenConnection()
+        command.ExecuteNonQuery()
+        CloseConnection()
+    End Sub
+
+  
 
 
 End Class

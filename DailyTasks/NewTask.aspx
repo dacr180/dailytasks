@@ -74,10 +74,6 @@
         <br />
         <asp:Label ID="Label4" runat="server" Text="Due Date"></asp:Label>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-        &nbsp;<asp:Label ID="DueDateMessage" runat="server"></asp:Label>
-    
-
-
         <eo:DatePicker ID="SelectedDate2" runat="server" ControlSkinID="None" 
             DayCellHeight="15" DayCellWidth="31" DayHeaderFormat="Short" DisabledDates="" 
             OtherMonthDayVisible="True" SelectedDates="" TitleFormat="MMMM, yyyy" 
@@ -107,7 +103,12 @@
                 </table>
             </FooterTemplate>
         </eo:DatePicker>
-        &nbsp;<br />
+        <asp:Label ID="DueDateMessage" runat="server"></asp:Label>
+    
+
+
+        <br />
+        <br />
         <br />
         <asp:Label ID="Label2" runat="server" Text="Task comments"></asp:Label>
         <br />
