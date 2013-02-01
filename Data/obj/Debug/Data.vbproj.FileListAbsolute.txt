@@ -11,3 +11,16 @@ D:\DailyTasks\Data\bin\Debug\Entity.xml
 D:\DailyTasks\Data\obj\Debug\Data.dll
 D:\DailyTasks\Data\obj\Debug\Data.xml
 D:\DailyTasks\Data\obj\Debug\Data.pdb
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\bin\Debug\Data.dll
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\bin\Debug\Data.pdb
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\bin\Debug\Data.xml
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\bin\Debug\Entity.dll
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\bin\Debug\Entity.pdb
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\bin\Debug\Entity.xml
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\Data.Resources.resources
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\Data.dll
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\Data.xml
+C:\Users\Daniel\Documents\GitHub\dailytasks\Data\obj\Debug\Data.pdb

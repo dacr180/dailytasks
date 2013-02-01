@@ -122,7 +122,7 @@
 
 
         <br />
-        <asp:Button ID="BtnNewTask" runat="server" Text="Insertar tarea" 
+        <asp:Button ID="BtnNewTask" runat="server" Text="New task" 
             Width="153px" Height="26px" />
         <br />
         <br />

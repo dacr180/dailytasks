@@ -6,32 +6,7 @@ DailyTasks
 </name>
 </assembly>
 <members>
-<member name="P:DailyTasks.My.MyWebExtension.Computer">
-	<summary>
- Devuelve información sobre el equipo host.
- </summary>
-</member><member name="P:DailyTasks.My.MyWebExtension.User">
-	<summary>
- Devuelve información del usuario web actual.
- </summary>
-</member><member name="P:DailyTasks.My.MyWebExtension.Request">
-	<summary>
- Devuelve un objeto Request.
- </summary>
-</member><member name="P:DailyTasks.My.MyWebExtension.Response">
-	<summary>
- Devuelve un objeto Response.
- </summary>
-</member><member name="P:DailyTasks.My.MyWebExtension.Log">
-	<summary>
- Devuelve el objeto de registro Asp.
- </summary>
-</member><member name="T:DailyTasks.My.MyWebExtension">
-	<summary>
- Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
- </summary>
-	<remarks></remarks>
-</member><member name="F:DailyTasks.PendingTasks.form1">
+<member name="F:DailyTasks.PendingTasks.form1">
 	<summary>
 Control form1.
 </summary>
@@ -183,38 +158,6 @@ Control information.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:DailyTasks.TodayTasks.form2">
-	<summary>
-Control form2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:DailyTasks.TodayTasks.LinkButton1">
-	<summary>
-Control LinkButton1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:DailyTasks.TodayTasks.BtnTodayTasks">
-	<summary>
-Control BtnTodayTasks.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:DailyTasks.TodayTasks.TodayTasks2">
-	<summary>
-Control TodayTasks2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
 </member><member name="F:DailyTasks.DailyTasks.form1">
 	<summary>
 Control form1.
@@ -247,6 +190,63 @@ Control LinkButton2.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:DailyTasks.TodayTasks.form2">
+	<summary>
+Control form2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.BtnTodayTasks">
+	<summary>
+Control BtnTodayTasks.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:DailyTasks.TodayTasks.TodayTasks2">
+	<summary>
+Control TodayTasks2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:DailyTasks.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:DailyTasks.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:DailyTasks.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:DailyTasks.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:DailyTasks.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:DailyTasks.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
 </member>
 </members>
 </doc>
